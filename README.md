@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [](https://kmarsic.github.io/FAQ-accordion-card/)
+- [Live Site URL:](https://kmarsic.github.io/FAQ-accordion-card/)
 
 ## My process
 
